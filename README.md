@@ -35,4 +35,4 @@ Google Maps APIs: We have used the following substack
   This Section must contain a set of instructions required to clone and run the prototype so that it can be tested and deeply analyzed
   
 ### Future Scope:
-   Write about the scalability and futuristic aspects of the prototype developed
+   In a landscape where 13 million small 'kirana' shops in India struggle with outdated systems, Esaadhan's innovative resource pooling feature holds immense promise. By leveraging location-based resource pooling and shared delivery personnel, Esaadhan empowers local shops to efficiently manage their operations, reducing overhead costs significantly. This collaborative approach enables these local shops to compete effectively with large retailers, optimizing their resources and enhancing their competitiveness in the market.

@@ -18,16 +18,16 @@ Website:
 Python
 Flask/Django (Python): For building the back-end of your application, routing, handling requests, and managing APIs
 Database: Firebase
-Google Maps APIs:
-	Maps SDK
-	Static maps 
-	Routes 
-	Roads
-	Directions
-	Distance Matrix 
-	Places API & SDKs
-	Geocoding 
-	Geolocation
+Google Maps APIs: We have used the following substack
+	Maps SDK,
+	Static maps, 
+	Routes, 
+	Roads,
+	Directions,
+	Distance Matrix, 
+	Places API & SDKs,
+	Geocoding, 
+	Geolocation,
 	Address Validation 
    
 ### Step-by-Step Code Execution Instructions:

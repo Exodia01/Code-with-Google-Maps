@@ -32,7 +32,9 @@ Google Maps APIs: We have used the following substack
 	Address Validation 
    
 ### Step-by-Step Code Execution Instructions:
-  This Section must contain a set of instructions required to clone and run the prototype so that it can be tested and deeply analyzed
+  	npm install
+	npx expo start
+ will get the code in the required local repo, from where the app runs as an android native app
   
 ### Future Scope:
    In a landscape where 13 million small 'kirana' shops in India struggle with outdated systems, Esaadhan's innovative resource pooling feature holds immense promise. By leveraging location-based resource pooling and shared delivery personnel, Esaadhan empowers local shops to efficiently manage their operations, reducing overhead costs significantly. This collaborative approach enables these local shops to compete effectively with large retailers, optimizing their resources and enhancing their competitiveness in the market.
